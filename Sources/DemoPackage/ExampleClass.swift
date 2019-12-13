@@ -12,6 +12,6 @@ public class ExampleClass: NSObject
 {
     public static func getTitle() -> String
     {
-        return "Swift Package Manager"
+        return "Swift Package Manager v2"
     }
 }
